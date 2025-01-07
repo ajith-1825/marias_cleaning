@@ -15,7 +15,7 @@ import coffeeMaker from '../public/how-to-clean-french-press-coffee-maker370x194
 import pic2 from '../public/mly-natural-cleaning-products-bacteria.webp'
 import pic3 from '../public/molly-maid-organize-silverware-370x210.webp'
 
-export default function main(){
+export default function Main(){
     const [isOpen, setIsOpen] = useState({});
 
     const toggleDropdown = (id) => {
@@ -101,13 +101,13 @@ export default function main(){
                     <h1>Home Cleaning Services We Provide</h1>
                     <h2>Our Approach: Custom Home Cleaning</h2>
                     <p>
-                        Looking for the best home cleaning services near you? Look no further than Marias's custom home cleaning services. We understand the challenges of maintaining a clean home amid a busy schedule. 
+                        Looking for the best home cleaning services near you? Look no further than Marias&aposs custom home cleaning services. We understand the challenges of maintaining a clean home amid a busy schedule. 
                         Our team is dedicated to providing top-notch home cleaning services tailored to your specific needs and preferences.
                         <br/><br/>
                         At Marias, we offer unmatched flexibility in our cleaning services. Our team collaborates closely with you to develop a tailored cleaning plan that suits your lifestyle and budget. 
-                        Whether you require regular cleaning, assistance with move-in cleaning, or a one-time specific cleaning, we've got you covered.
+                        Whether you require regular cleaning, assistance with move-in cleaning, or a one-time specific cleaning, we&aposve got you covered.
                         <br/><br/>
-                        Don't settle for a one-size-fits-all approach to home cleaning. Trust Marias for the best home cleaning services that exceed your expectations. 
+                        Don&apost settle for a one-size-fits-all approach to home cleaning. Trust Marias for the best home cleaning services that exceed your expectations. 
                         Contact us today to schedule a consultation and experience the convenience and flexibility of our custom cleaning services.
                         <br/><br/>
                         Some of our custom home cleaning services include:
@@ -261,9 +261,9 @@ export default function main(){
                             <div id="content1" className="dropdown-content">
                                 <p>
                                     Life is busy, which means you can’t always complete everything on your to-do list. 
-                                    Marias allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right. Our residential home cleaning service is dedicated to making your life easier. We've built a reputation for top-notch cleaning that you can trust. 
+                                    Marias allows you to have a sparkling home, saves you valuable time, and provides the peace of mind that comes with knowing the job was done right. Our residential home cleaning service is dedicated to making your life easier. We&aposve built a reputation for top-notch cleaning that you can trust. 
                                     Our detailed approach covers every room and corner, leaving no mess behind.
-                                    You deserve a clean, comfortable space; we're here to deliver it.
+                                    You deserve a clean, comfortable space; we&aposre here to deliver it.
                                     As part of the Neighborly family of home service brands, we uphold high standards and prioritize your satisfaction. 
                                     Choose Marias for a cleaner, healthier home that allows you to focus on what matters most to you. 
                                     Request a free estimate now!
@@ -279,7 +279,7 @@ export default function main(){
                         <>
                             <div id="content2" className="dropdown-content">
                                 <p>
-                                    Marias takes care of your whole home! Our services are the definition of comprehensive. We give your kitchen a thorough cleaning, and bathrooms sparkle after we're done. 
+                                    Marias takes care of your whole home! Our services are the definition of comprehensive. We give your kitchen a thorough cleaning, and bathrooms sparkle after we&aposre done. 
                                     Your living room remains cozy and inviting as we tidy up.
                                     All bedrooms get our attention, with beds made and dust gone. Our professional home cleaners ensure every room you want cleaned is a delight for you to come back to. 
                                     If you’ve been looking for the best local home cleaning services near you, Marias is the right choice.

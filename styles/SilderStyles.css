@@ -1,0 +1,109 @@
+/* SliderStyles.css */
+
+/* Basic styling for the calculator container */
+.calculator-container {
+    max-width: 800px;
+    margin: 2vh auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Title styling */
+  .calculator-container h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Label for the sliders */
+  .slider-label {
+    display: block;
+    font-size: 1.5vh;
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  /* Basic styling for the slider container */
+  .slider-container {
+    margin: 20px 0;
+    font-size: 1.5vh;
+  }
+  
+  /* Style the slider track */
+  .react-slider {
+    width: 100%;
+    height: 8px;
+    background: #ddd;
+    border-radius: 4px;
+    position: relative;
+  }
+  
+  /* Style the thumb (draggable part of the slider) */
+  .slider-thumb {
+    height: 12px;
+    width: 12px;
+    background:#1c9f0b;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  
+  /* Change the thumb color on hover */
+  .react-slider-thumb:hover {
+    background: #005bb5;
+  }
+  
+  /* Style the marks (vertical lines on the slider) */
+  .react-slider-mark {
+    background: #0070f3;
+    height: 12px;
+    width: 2px;
+    position: absolute;
+    bottom: 0;
+  }
+  
+  /* Style the marks' labels */
+  .react-slider-mark-label {
+    font-size: 12px;
+    color: #333;
+    text-align: center;
+    margin-top: 5px;
+  }
+  
+  /* Dropdown styling for select elements */
+  select {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  /* Checkbox container */
+  .checkbox-container {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Style for checkbox and its label */
+  .checkbox-container label {
+    margin-left: 10px;
+    color: #333;
+    font-size: 1.5vh;
+  }
+  
+  /* Styling the estimated cost */
+  .estimated-cost {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #1c9f0b;
+    margin-top: 20px;
+  }
+  
